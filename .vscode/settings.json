@@ -1,6 +1,0 @@
-{
-  "files.associations": { "*.h": "c" },
-  "C_Cpp.default.cStandard": "gnu99",
-  "files.eol": "\n",
-  "editor.tabSize": 4
-}
