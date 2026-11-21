@@ -1,0 +1,77 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/src",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/ui",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/datalog",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/climate",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/irrigation",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/sensors",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/tank",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/dht_sensor",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/light_sensor",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/rtc_ds3231",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/settings",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/lcd_i2c",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/soil_sensor",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/analog",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/flow_meter",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/buttons",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/buzzer",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/outputs",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/valve",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/hal",
+                "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/include",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/src",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/ui",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/datalog",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/climate",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/irrigation",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/sensors",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/tank",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/dht_sensor",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/light_sensor",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/rtc_ds3231",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/settings",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/lcd_i2c",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/soil_sensor",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/analog",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/flow_meter",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/buttons",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/buzzer",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/outputs",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/valve",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/lib/hal",
+                    "C:/Users/Naderi/Desktop/greenhouse (3)/greenhouse/include",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=32000000L",
+                "PLATFORMIO=60118",
+                "__AVR_ATXMEGA128A1__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "C:/pio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atxmega128a1",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

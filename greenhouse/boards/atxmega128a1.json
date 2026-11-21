@@ -1,0 +1,15 @@
+{
+  "build": {
+    "f_cpu": "32000000L",
+    "mcu": "atxmega128a1"
+  },
+  "frameworks": [],
+  "name": "ATxmega128A1 (32 MHz internal RC)",
+  "upload": {
+    "maximum_ram_size": 8192,
+    "maximum_size": 139264,
+    "protocol": "atmelice_pdi"
+  },
+  "url": "https://www.microchip.com/en-us/product/ATxmega128A1",
+  "vendor": "Microchip"
+}
